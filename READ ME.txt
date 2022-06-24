@@ -1,0 +1,6 @@
+Zombie RUSH created by Ayush Kumar Ahirwar.
+
+
+Click on "Zombie Rush.exe" to play.
+
+Jump over zombies to score.
